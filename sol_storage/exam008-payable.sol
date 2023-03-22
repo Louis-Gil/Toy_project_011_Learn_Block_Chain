@@ -1,7 +1,7 @@
 //SPDX-license-Identifier : GPL-30
 pragma solidity >= 0.7.0 < 0.9.0;
 
-contract exam6 {
+contract exam8 {
   event howMuch(uint256 _value);
 
   function sendNow(address payable _to) public payable {
