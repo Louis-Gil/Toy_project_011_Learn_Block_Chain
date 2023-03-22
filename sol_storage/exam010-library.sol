@@ -1,4 +1,5 @@
 //SPDX-license-Identifier : GPL-30
+//0.8 이전만 오버플로우
 pragma solidity >= 0.7.0 < 0.9.0;
 
 library safeMatch{ 
